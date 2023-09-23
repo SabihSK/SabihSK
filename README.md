@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabihsk&label=Profile%20views&color=0e75b6&style=flat" alt="sabihsk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabihsk" alt="sabihsk" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sabihsk" target="blank"><img src="https://img.shields.io/twitter/follow/sabihsk?logo=twitter&style=for-the-badge" alt="sabihsk" /></a> </p>
 
 - 🔭 I’m currently working on **Python, Flutter and Data Engineering projects**
